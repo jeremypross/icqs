@@ -70,7 +70,7 @@ const getProductsOfAllIntsExceptAtIndex = (intArray) => {
   // storing total product so far each time
   let productSoFar = 1;
   for (let i=0; i<intArray.length; i++) {
-    productOfAllIntsExecptIndex[i] = productSoFar;
+    productOfAllIntsExceptIndex[i] = productSoFar;
     productSoFar = intArray[i];
   }
 
