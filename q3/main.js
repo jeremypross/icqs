@@ -1,4 +1,5 @@
 // Q3: Highest product of 3 integers from a given array
+// source: https://www.interviewcake.com/
   // Given an array of integers, find the highest product you can get from three of the integers
   // array will always have at least 3 integers
 
